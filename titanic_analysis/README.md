@@ -24,4 +24,4 @@ This project analyzes the Titanic dataset to explore passenger survival rates us
 ## How to Run the Project
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/python-projects.git
+   git clone https://github.com/Michela999/python-projects.git
